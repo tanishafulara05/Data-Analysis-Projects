@@ -6,6 +6,13 @@ MCA Student | Aspiring Data Analyst | Python | SQL | Data Analytics Enthusiast
 ## About Me
 I am currently pursuing MCA and building my skills in Data Analytics. I am learning Python, SQL, Excel, exploratory data analysis, and visualization techniques while working on hands-on projects.
 
+## Projects
+
+### 1. Power BI Superstore Sales Dashboard
+Interactive dashboard analyzing sales, customers, regions, and categories using Power BI.
+
+Folder: PowerBI-Superstore-Dashboard
+
 ## Skills
 - Python
 - SQL
